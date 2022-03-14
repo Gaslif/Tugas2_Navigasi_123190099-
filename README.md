@@ -1,4 +1,6 @@
-# tugas_navigasi
+# tugas2_navigasi
+Nama  : Bagas Alifa Nugraha
+Nim   : 123190099
 
 A new Flutter project.
 
